@@ -5,7 +5,6 @@
     - <b>normalice.css</b>
     ブラウザ間の表示差異をなくし、作成者の意図通りにスタイリングを行なうためのCSSファイルの一つ。
     以前はブラウザに初期設定されているものを完全にリセットするreset.cssが使用されていたが、初期設定の全てが悪くない理由から、長所はそのまま残すnormalize.cssが利用されている。
-    (https://coeure.co.jp/blog/homepage/homepage_180501_04#normalizecss)
     - <b>base.css</b>
     wrapperやheader,footerなど、ベースとなる部分のcssを書く。
     - <b>common.css</b>
